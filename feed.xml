@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人播客</title>
+    <link>https://zhanghao-ruc.github.io/personal-podcast</link>
+    <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 07 Nov 2026 15:51:43 -0000</lastBuildDate>
+    <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>每日科技新闻与财经播报 2026-11-05</title>
+      <description>乌镇蓝皮书与智能体自律公约，美股云巨头分化，A股十一月四日大反攻与央行再贷款降息，美国中期选举结果出炉后美股大涨。</description>
+      <pubDate>Wed, 04 Nov 2026 23:09:06 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05-2026-11-04</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-97d2c3d8-3e41-411a-8b4e-2e5d819d4c45.mp3" length="3453349" type="audio/mpeg"/>
+      <itunes:duration>431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>每日科技新闻与财经播报 2026-11-06</title>
+      <description>美股十一月五日暴跌，纳指进入技术性回调；六十万颗英伟达H二百芯片滞留香港；A股十一月五日三指数收涨，光伏电力设备领涨。</description>
+      <pubDate>Thu, 05 Nov 2026 23:05:26 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-06-2026-11-05</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-c397b02f-c570-4140-a59b-cea182c495f8.mp3" length="2716261" type="audio/mpeg"/>
+      <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>芯片反弹难掩整周大跌，OpenAI估值1.25万亿落定｜《个人播客》11月7日（Nova版）</title>
+      <description>OpenAI tts-1-hd Nova 合成版。美股周五芯片反弹但全周大跌；OpenAI以1.25万亿美元估值关闭110亿美元融资；英伟达改造闲置电信机房；深度观察：数据中心成为政治议题。</description>
+      <pubDate>Sat, 07 Nov 2026 15:49:29 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-07-nova</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-07-nova.mp3" length="6403701" type="audio/mpeg"/>
+      <itunes:duration>569</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>芯片反弹难掩整周大跌，OpenAI估值1.25万亿落定｜《个人播客》11月7日加长版</title>
+      <description>加长版：美股周五芯片股反弹但全周大跌，标普跌2.7%为四月以来最差一周；OpenAI以1.25万亿美元估值完成110亿美元融资，Anthropic估值预期下修；HBM产能售罄、出口管制延伸至芯片追踪；深度观察：41个数据中心提案40个被公投否决，AI瓶颈转向电力与政治。</description>
+      <pubDate>Sat, 07 Nov 2026 14:22:08 +0000</pubDate>
+      <guid isPermaLink="false">openai125117-2026-11-07-3610e28c</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-4271a5f9-1ac0-4fdc-92fd-5e2215766458.mp3" length="4547173" type="audio/mpeg"/>
+      <itunes:duration>568</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>芯片反弹难掩整周大跌，OpenAI估值1.25万亿落定｜《个人播客》11月7日</title>
+      <description>本期要点：美股周五靠芯片股反弹收涨，AMD涨11%，但全周标普仍跌2.7%，为四月以来最差一周；OpenAI以1.25万亿美元估值完成110亿美元融资；深度观察：41个数据中心提案40个被公投否决，AI的瓶颈正从芯片转向电力与政治。</description>
+      <pubDate>Sat, 07 Nov 2026 12:36:10 +0000</pubDate>
+      <guid isPermaLink="false">openai125117-2026-11-07</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-fabc9852-657d-46e7-b285-e724ee9ceba0.mp3" length="3260581" type="audio/mpeg"/>
+      <itunes:duration>407</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>每日科技新闻与财经播报 2026-11-03</title>
+      <description>乌镇领先科技奖与六G展出、机器人登泰山与Meta新样机、A股十一月开门红与央行互换便利操作、美股大跌与美国中期选举投票日的市场分化。</description>
+      <pubDate>Mon, 02 Nov 2026 23:04:22 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-03-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-e42ff011-0fd3-4fef-920d-d1e80f2b1bf7.mp3" length="2942437" type="audio/mpeg"/>
+      <itunes:duration>367</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>十一月二日科技财经播客：A股放量反弹与太空算力新进展</title>
+      <description>Alex和Jordan聊今日A股放量反弹、美股AI交易降温、太空算力、苹果国行智能与机器人登泰山，以及本周中期选举与非农数据展望。</description>
+      <pubDate>Mon, 02 Nov 2026 08:46:38 +0000</pubDate>
+      <guid isPermaLink="false">a-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-be8c32f9-94b5-4580-b9eb-b0b8817f1da7.mp3" length="3879397" type="audio/mpeg"/>
+      <itunes:duration>484</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>每日科技新闻与财经播报 2026-11-02</title>
+      <description>Alex和Jordan聊今天的科技新闻与市场动态：DeepSeek多代理架构、Karpathy的HackerTube、苹果中国区测试，以及美股与A股的调整。</description>
+      <pubDate>Mon, 02 Nov 2026 08:45:07 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-02-2026-11-02</guid>
+      <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-b4963cde-ebe3-416f-aafd-472a8279c486.mp3" length="2947237" type="audio/mpeg"/>
+      <itunes:duration>368</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
