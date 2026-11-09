@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:09:39 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:06:00 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -64,6 +64,15 @@
       <guid isPermaLink="false">openai125117-2026-11-07</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-fabc9852-657d-46e7-b285-e724ee9ceba0.mp3" length="3260581" type="audio/mpeg"/>
       <itunes:duration>407</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英伟达董事会启动调查，Anthropic坚持上市｜《个人播客》11月9日</title>
+      <description>本期要点：英伟达董事会就黄仁勋间谍指控启动调查；Anthropic顶着抛售坚持推进IPO，估值从两万亿一路下修；伯克希尔三季度回购九十六亿美元；周二美国CPI是本周最大看点。</description>
+      <pubDate>Mon, 09 Nov 2026 00:06:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-09</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-09.mp3" length="4279725" type="audio/mpeg"/>
+      <itunes:duration>535</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
