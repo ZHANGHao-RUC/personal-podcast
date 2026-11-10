@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:09:51 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:49:53 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -19,6 +19,15 @@
       <guid isPermaLink="false">2026-11-05-2026-11-04</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-97d2c3d8-3e41-411a-8b4e-2e5d819d4c45.mp3" length="3453349" type="audio/mpeg"/>
       <itunes:duration>431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>CPI超预期点燃加息担忧，Anthropic启动万亿IPO｜《个人播客》11月11日</title>
+      <description>昨夜美股受超预期CPI拖累回落，英伟达再跌百分之五点五；Anthropic启动IPO路演，定价七十到七十八美元；CoreWeave财报超预期但利息高企；中国十月出口大增百分之三十五点二。</description>
+      <pubDate>Tue, 10 Nov 2026 23:49:53 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-11</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-11.mp3" length="4784877" type="audio/mpeg"/>
+      <itunes:duration>598</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
