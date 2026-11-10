@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:37:24 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:09:51 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -19,6 +19,15 @@
       <guid isPermaLink="false">2026-11-05-2026-11-04</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-97d2c3d8-3e41-411a-8b4e-2e5d819d4c45.mp3" length="3453349" type="audio/mpeg"/>
       <itunes:duration>431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>美股强劲反弹创四月最佳单日，英伟达逆势下跌｜《个人播客》11月10日</title>
+      <description>昨夜美股强劲反弹，标普创四月以来最佳单日；英伟达逆势跌超百分之四。中美贸易休战延长至明年一月，今晚美国十月CPI公布。谷歌发布新TPU，Anthropic新模型降价并启动上市路演。</description>
+      <pubDate>Tue, 10 Nov 2026 01:09:51 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-10</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-10.mp3" length="4546029" type="audio/mpeg"/>
+      <itunes:duration>568</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
