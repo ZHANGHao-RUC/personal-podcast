@@ -6,12 +6,21 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Nov 2026 23:49:53 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:14:05 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>英伟达董事会据报准备罢免黄仁勋，芯片股强劲反弹｜《个人播客》11月12日</title>
+      <description>昨夜美股强劲反弹，芯片股领涨；收盘后《华尔街日报》报道英伟达董事会准备罢免黄仁勋，盘后股价跌约百分之八。Anthropic七家金主名单出炉，谷歌发布Gemini 4，OpenAI单季收入近百亿美元。政府关门43天后结束。</description>
+      <pubDate>Wed, 11 Nov 2026 23:14:05 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-12</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-12.mp3" length="3855789" type="audio/mpeg"/>
+      <itunes:duration>482</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>每日科技新闻与财经播报 2026-11-05</title>
       <description>乌镇蓝皮书与智能体自律公约，美股云巨头分化，A股十一月四日大反攻与央行再贷款降息，美国中期选举结果出炉后美股大涨。</description>
