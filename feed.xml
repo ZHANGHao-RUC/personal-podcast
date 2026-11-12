@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:14:05 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:54:40 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -46,6 +46,15 @@
       <guid isPermaLink="false">2026-11-10</guid>
       <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-10.mp3" length="4546029" type="audio/mpeg"/>
       <itunes:duration>568</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>黄仁勋辞职，英伟达盘中暴跌百分之十四｜《个人播客》11月13日</title>
+      <description>黄仁勋正式辞去英伟达CEO，股价盘中一度跌百分之十四；四家非营利组织起诉五大AI实验室，要求冻结前沿模型开发；Anthropic IPO认购数倍超额；今晚美国十月PPI公布。</description>
+      <pubDate>Thu, 12 Nov 2026 23:54:40 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-13</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-13.mp3" length="5021805" type="audio/mpeg"/>
+      <itunes:duration>628</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
