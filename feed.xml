@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 12 Nov 2026 23:54:40 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:54:31 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -136,6 +136,15 @@
       <guid isPermaLink="false">2026-11-02-2026-11-02</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-b4963cde-ebe3-416f-aafd-472a8279c486.mp3" length="2947237" type="audio/mpeg"/>
       <itunes:duration>368</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Anthropic IPO认购六倍，PPI创四年新高｜《个人播客》11月14日</title>
+      <description>本期要点：Anthropic IPO认购达发行量六倍，最高募资六百四十三点五亿美元；英伟达接班人选浮出水面，股价本周跌百分之十三；美国十月PPI同比涨百分之六点五，创四年新高，美联储十二月加息幅度成焦点。</description>
+      <pubDate>Fri, 13 Nov 2026 23:54:31 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-14</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-14.mp3" length="4737837" type="audio/mpeg"/>
+      <itunes:duration>592</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
