@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 13 Nov 2026 23:54:31 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 23:41:47 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -73,6 +73,15 @@
       <guid isPermaLink="false">2026-11-08</guid>
       <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-08.mp3" length="10206381" type="audio/mpeg"/>
       <itunes:duration>638</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Anthropic IPO拒接中港机构认购，英伟达换帅陷入拉锯｜《个人播客》11月15日</title>
+      <description>本期要点：Anthropic IPO认购达发行量六倍，但承销行以武器出口管制为由拒接中国内地与香港机构订单；英伟达董事会否认正式接触Arm首席执行官，马斯克声援黄仁勋复职请愿，市值跌破四万亿美元；ChatGPT钱包让智能体代为下单；中国十月工业与消费增速放缓至一年多来最慢。</description>
+      <pubDate>Sat, 14 Nov 2026 23:41:47 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-15</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-15.mp3" length="4946157" type="audio/mpeg"/>
+      <itunes:duration>618</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
