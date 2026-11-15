@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 14 Nov 2026 23:41:47 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:21:44 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -64,6 +64,15 @@
       <guid isPermaLink="false">2026-11-06-2026-11-05</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-c397b02f-c570-4140-a59b-cea182c495f8.mp3" length="2716261" type="audio/mpeg"/>
       <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>贝森特要求英伟达十天内交代出口合规，美联储称AI为头号金融风险｜《个人播客》11月16日</title>
+      <description>本期要点：美国财长贝森特要求英伟达从外部选CEO、十天内回答出口合规问题；美联储报告称百分之八十七的市场联系人把AI列为金融稳定头号风险；OpenAI解散机器人团队，美团开源万亿参数模型；本周看点：英伟达财报与Anthropic上市。</description>
+      <pubDate>Sun, 15 Nov 2026 23:21:44 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-16</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-16.mp3" length="4836141" type="audio/mpeg"/>
+      <itunes:duration>604</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
