@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 16 Nov 2026 23:46:54 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:50:56 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -28,6 +28,15 @@
       <guid isPermaLink="false">2026-11-05-2026-11-04</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-97d2c3d8-3e41-411a-8b4e-2e5d819d4c45.mp3" length="3453349" type="audio/mpeg"/>
       <itunes:duration>431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>英伟达财报超预期盘后反弹，Anthropic定价有望高于区间｜《个人播客》11月18日</title>
+      <description>昨夜美股四连跌后，英伟达交出营收1158亿美元的超预期财报，盘后反弹约百分之四点五；Anthropic IPO认购火爆，定价有望高于区间，周四挂牌。本期还讲了十月零售销售、建筑商信心十四年新低，以及迪士尼与家得宝的消费分化。</description>
+      <pubDate>Tue, 17 Nov 2026 23:50:56 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-18</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-18.mp3" length="4681965" type="audio/mpeg"/>
+      <itunes:duration>585</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
