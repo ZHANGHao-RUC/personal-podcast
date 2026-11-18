@@ -6,12 +6,21 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:50:56 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:43:43 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Anthropic八十三美元定价今晚挂牌，美联储会议纪要放鹰｜《个人播客》11月19日</title>
+      <description>本期要点：Anthropic以每股八十三美元定价，今晚纳斯达克挂牌；美联储十月会议纪要显示几乎所有官员支持进一步加息，十二月加息几成定局；英伟达财报超预期股价却再跌百分之二点九，创五十二周收盘新低；OpenAI发布GPT-6.2降价两成；Palo Alto财报超预期大涨近一成。</description>
+      <pubDate>Wed, 18 Nov 2026 23:43:43 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-19</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-19.mp3" length="3832749" type="audio/mpeg"/>
+      <itunes:duration>479</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>英伟达董事会据报准备罢免黄仁勋，芯片股强劲反弹｜《个人播客》11月12日</title>
       <description>昨夜美股强劲反弹，芯片股领涨；收盘后《华尔街日报》报道英伟达董事会准备罢免黄仁勋，盘后股价跌约百分之八。Anthropic七家金主名单出炉，谷歌发布Gemini 4，OpenAI单季收入近百亿美元。政府关门43天后结束。</description>
