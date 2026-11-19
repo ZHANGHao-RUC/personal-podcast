@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 18 Nov 2026 23:43:43 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:39:39 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -64,6 +64,15 @@
       <guid isPermaLink="false">2026-11-10</guid>
       <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-10.mp3" length="4546029" type="audio/mpeg"/>
       <itunes:duration>568</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Anthropic首日高开低走收涨百分之十七，美股六连跌道指跌破五万点｜《个人播客》11月20日</title>
+      <description>本期要点：Anthropic首日挂牌开盘涨百分之三十四，收盘涨幅收窄至百分之十七；美股六连跌，道指跌破五万点；AMD遭做空跌百分之七点七二；谷歌发布Gemini 4 Neon；沃尔玛上调指引，阿里云增长百分之五十三。</description>
+      <pubDate>Thu, 19 Nov 2026 23:39:39 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-20</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-20.mp3" length="3812781" type="audio/mpeg"/>
+      <itunes:duration>477</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
