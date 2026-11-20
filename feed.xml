@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Nov 2026 23:39:39 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:20:13 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -190,6 +190,15 @@
       <guid isPermaLink="false">2026-11-02-2026-11-02</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-b4963cde-ebe3-416f-aafd-472a8279c486.mp3" length="2947237" type="audio/mpeg"/>
       <itunes:duration>368</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>七连跌！标普跌入技术性修正，英伟达遭SEC会计调查暴跌百分之十四｜《个人播客》11月21日</title>
+      <description>本期要点：昨夜美股七连跌，标普跌百分之三点七进入技术性修正，纳指年内转负；英伟达遭SEC会计调查，单日暴跌约百分之十四；Anthropic第二日跌百分之九点一，盘中逼近发行价；DeepSeek完成约一千亿元融资筹备科创板上市；A股创业板较六月高点近腰斩。</description>
+      <pubDate>Fri, 20 Nov 2026 23:20:13 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-21</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-21.mp3" length="4363821" type="audio/mpeg"/>
+      <itunes:duration>545</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
