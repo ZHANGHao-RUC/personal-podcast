@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 20 Nov 2026 23:20:13 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:23:48 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -109,6 +109,15 @@
       <guid isPermaLink="false">2026-11-08</guid>
       <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-08.mp3" length="10206381" type="audio/mpeg"/>
       <itunes:duration>638</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>特朗普喊话黄仁勋复职，美联储加息预期升至三连加｜《个人播客》11月22日</title>
+      <description>本期要点：特朗普公开要求英伟达让黄仁勋复职，与财长贝森特的说法直接矛盾；摩根大通预计美联储将连续三次加息；Oracle称与OpenAI的基建协议已全部完成融资；DeepSeek二轮融资股权落定；深度观察：Anthropic九千亿美元算力合同背后的账本。</description>
+      <pubDate>Sat, 21 Nov 2026 23:23:48 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-22</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-22.mp3" length="4681197" type="audio/mpeg"/>
+      <itunes:duration>585</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
