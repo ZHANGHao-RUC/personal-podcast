@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 21 Nov 2026 23:23:48 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:34:57 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -91,6 +91,15 @@
       <guid isPermaLink="false">2026-11-06-2026-11-05</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-c397b02f-c570-4140-a59b-cea182c495f8.mp3" length="2716261" type="audio/mpeg"/>
       <itunes:duration>339</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>贝森特给英伟达下最后通牒，中韩周末联手稳市｜《个人播客》11月23日</title>
+      <description>本期要点：贝森特周日称英伟达须在11月25日前交代是否设壳公司规避出口管制；韩国紧急筹备股市稳定基金，中国下调融资保证金至百分之八十；CrowdStrike洽购Zscaler、特斯拉推送FSD V15；美股上周创2025年4月以来最差一周，期指周日夜盘小幅高开。</description>
+      <pubDate>Sun, 22 Nov 2026 23:34:57 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-23</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-23.mp3" length="4905837" type="audio/mpeg"/>
+      <itunes:duration>613</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
