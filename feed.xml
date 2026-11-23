@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:34:57 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:34:50 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -163,6 +163,15 @@
       <guid isPermaLink="false">openai125117-2026-11-07</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-fabc9852-657d-46e7-b285-e724ee9ceba0.mp3" length="3260581" type="audio/mpeg"/>
       <itunes:duration>407</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>黄仁勋复职英伟达暴涨百分之三十一，美股史诗级反弹｜《个人播客》11月24日</title>
+      <description>本期要点：英伟达董事会一致投票恢复黄仁勋职务，股价单日暴涨百分之三十一，标普涨百分之四点七三、纳指涨百分之六点五一；CrowdStrike宣布四百四十亿美元收购Zscaler；HPE财报超预期并大幅上调指引；Anthropic期权首秀火爆但股价逆市跌；深度观察：十一天两次反转背后的治理拷问。</description>
+      <pubDate>Mon, 23 Nov 2026 23:34:50 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-24</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-24.mp3" length="5201901" type="audio/mpeg"/>
+      <itunes:duration>650</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
