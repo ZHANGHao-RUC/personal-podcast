@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:34:50 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:22:21 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -37,6 +37,15 @@
       <guid isPermaLink="false">2026-11-05-2026-11-04</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-97d2c3d8-3e41-411a-8b4e-2e5d819d4c45.mp3" length="3453349" type="audio/mpeg"/>
       <itunes:duration>431</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>道指首破五万点，纳指回吐百分之一点五；戴尔财报大超预期盘后反弹｜《个人播客》11月25日</title>
+      <description>本期要点：昨夜美股严重分化，道指史上首次收在五万点上方，纳指跌百分之一点四八；白宫准备对中国、欧盟等十六个经济体加征新关税，芯片股领跌；戴尔三季度营收翻倍、AI服务器积压创纪录；Anthropic跌破八十三美元发行价；深度观察：关税二点零的法律重建与通胀账本。</description>
+      <pubDate>Tue, 24 Nov 2026 23:22:21 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-25</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-25.mp3" length="4047789" type="audio/mpeg"/>
+      <itunes:duration>506</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
