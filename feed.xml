@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Nov 2026 23:28:28 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:34:27 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -82,6 +82,15 @@
       <guid isPermaLink="false">2026-11-10</guid>
       <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-10.mp3" length="4546029" type="audio/mpeg"/>
       <itunes:duration>568</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>FCC批准SpaceX百万卫星建太空数据中心，关税回击潮涌、华为案十罪成立｜《个人播客》11月27日</title>
+      <description>本期要点：FCC批准SpaceX发射一百万颗卫星建轨道AI数据中心；关税二点零遭中国、欧盟等正式回击；AI数学周：谷歌Cogentic发论文、OpenAI锁定矩阵乘法指数；华为案十罪成立；黑五开场，十一月月线几无翻盘可能。</description>
+      <pubDate>Thu, 26 Nov 2026 23:34:27 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-27</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-27.mp3" length="4675053" type="audio/mpeg"/>
+      <itunes:duration>584</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
