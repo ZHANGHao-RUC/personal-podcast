@@ -6,7 +6,7 @@
     <atom:link href="https://zhanghao-ruc.github.io/personal-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>每日科技新闻与财经播报：AI 产业、美股市场与宏观政策，主编精选、核实后播报。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 26 Nov 2026 23:34:27 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 23:10:48 -0000</lastBuildDate>
     <itunes:image href="https://zhanghao-ruc.github.io/personal-podcast/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:category text="Business"/>
@@ -244,6 +244,15 @@
       <guid isPermaLink="false">2026-11-02-2026-11-02</guid>
       <enclosure url="https://muse.ai/podcasts/media/1306220589251005/1c187e44-2c3a-464c-83e3-b9c8f7ea1c3a/ep-b4963cde-ebe3-416f-aafd-472a8279c486.mp3" length="2947237" type="audio/mpeg"/>
       <itunes:duration>368</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>国家队点燃A股两年最大涨幅，美股黑五创十年最强反弹｜《个人播客》11月28日</title>
+      <description>本期要点：国务院强化中央汇金稳市角色，A股创两年最大单日涨幅，科创50涨百分之十五点零七；美股黑五大涨，标普周涨百分之五点六创2025年4月以来最佳一周；英伟达暂停向东南亚四国发运AI服务器；深度观察：42州联手阻止Character.AI拍卖2100万用户聊天记录。</description>
+      <pubDate>Fri, 27 Nov 2026 23:10:48 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-28</guid>
+      <enclosure url="https://zhanghao-ruc.github.io/personal-podcast/episodes/2026-11-28.mp3" length="4744749" type="audio/mpeg"/>
+      <itunes:duration>593</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
